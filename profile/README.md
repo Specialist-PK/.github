@@ -20,9 +20,14 @@
 
 ## Проекты
 
+- [**specialist-emulator**](https://github.com/Specialist-PK/specialist-emulator) — кроссплатформенный эмулятор с CLI, браузерным и нативным приложениями.
+- [**specialist-zed**](https://github.com/Specialist-PK/specialist-zed) — расширение Zed для DAP-отладки программ «Специалиста»; сейчас на этапе проектирования.
 - [**special20k**](https://github.com/Specialist-PK/special20k) — ПК «Специалист» на FPGA-плате Tang Nano 20k.
 
-Со временем здесь появятся и другие проекты: эмуляторы, средства разработки, технические справочники и материалы по ретрокомпьютерам.
+## Документы организации
+
+- [Архитектура проектов и межпроектные контракты](../docs/architecture.md).
+- [Общая дорожная карта](../docs/roadmap.md).
 
 ## Участие
 
